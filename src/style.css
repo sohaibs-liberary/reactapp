@@ -31,3 +31,15 @@
     cursor: pointer;
 
 }
+
+.footer{
+    background-color: black;
+    color: azure;
+    padding: 20px;
+    margin-top: 30px;
+
+}
+.block-1{
+    display: flex;
+    justify-content: space-around;
+}
